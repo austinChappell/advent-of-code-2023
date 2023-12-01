@@ -1037,18 +1037,19 @@ class Utils
 
     public static Tuple<int, int> GetFirstAndLast(string value)
     {
-        var numMap = new Dictionary<string, int>();
-
-        numMap.Add("one", 1);
-        numMap.Add("two", 2);
-        numMap.Add("three", 3);
-        numMap.Add("four", 4);
-        numMap.Add("five", 5);
-        numMap.Add("six", 6);
-        numMap.Add("seven", 7);
-        numMap.Add("eight", 8);
-        numMap.Add("nine", 9);
-
+        var numMap = new Dictionary<string, int>
+        {
+            {"one", 1},
+            {"two", 2},
+            {"three", 3},
+            {"four", 4},
+            {"five", 5},
+            {"six", 6},
+            {"seven", 7},
+            {"eight", 8},
+            {"nine", 9},
+        };
+        
         var indexMap = new Dictionary<int, List<int>>();
         
         foreach (var keyValuePair in numMap)
@@ -1066,17 +1067,15 @@ class Utils
         {
             foreach (var i in keyValuePair.Value)
             {
-                var listItem = i;
-                
-                if (listItem < lowestIndex)
+                if (i < lowestIndex)
                 {
-                    lowestIndex = listItem;
+                    lowestIndex = i;
                     firstDigit = keyValuePair.Key;
                 }
 
-                if (listItem > highestIndex)
+                if (i > highestIndex)
                 {
-                    highestIndex = listItem;
+                    highestIndex = i;
                     lastDigit = keyValuePair.Key;
                 }
             }
@@ -1093,12 +1092,7 @@ class Utils
         {
             var firstLastTuple = GetFirstAndLast(str);
 
-            var firstDigit = firstLastTuple.Item1;
-            var lastDigit = firstLastTuple.Item2;
-            
-            var strIntConcat = $"{firstDigit}{lastDigit}";
-    
-            sum += int.Parse(strIntConcat);
+            sum += int.Parse($"{firstLastTuple.Item1}{firstLastTuple.Item2}");
         });
 
         return sum;
