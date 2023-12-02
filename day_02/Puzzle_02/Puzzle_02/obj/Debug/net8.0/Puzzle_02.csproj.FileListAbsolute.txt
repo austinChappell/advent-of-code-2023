@@ -1,0 +1,15 @@
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/bin/Debug/net8.0/Puzzle_02
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/bin/Debug/net8.0/Puzzle_02.deps.json
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/bin/Debug/net8.0/Puzzle_02.runtimeconfig.json
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/bin/Debug/net8.0/Puzzle_02.dll
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/bin/Debug/net8.0/Puzzle_02.pdb
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.AssemblyInfoInputs.cache
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.AssemblyInfo.cs
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.csproj.CoreCompileInputs.cache
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.sourcelink.json
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.dll
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/refint/Puzzle_02.dll
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.pdb
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/Puzzle_02.genruntimeconfig.cache
+/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/Debug/net8.0/ref/Puzzle_02.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VyzPuvtmzqrKA5HvjglrUb6bjtujOWAT5SYjatHmx+lgnKqXKDJMDi4zGnDy/HUb8gRJAzWuRP+GNFrqiq5OQ==",
+  "dgSpecHash": "14WTfZpHWZP8bUXJt0palonT/Qt+KccV+85T5xxD1U5P+drOG2fQTBOU7VK0/f76QU30Yn4It2tFu8TYzFf+gA==",
   "success": true,
-  "projectFilePath": "/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01.csproj",
+  "projectFilePath": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

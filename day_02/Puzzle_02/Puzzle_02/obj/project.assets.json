@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01.csproj",
-      "projectName": "Day02_Puzzle_01",
-      "projectPath": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01.csproj",
+      "projectUniqueName": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/Puzzle_02.csproj",
+      "projectName": "Puzzle_02",
+      "projectPath": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/Puzzle_02.csproj",
       "packagesPath": "/Users/austinchappell/.nuget/packages/",
-      "outputPath": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/",
+      "outputPath": "/Users/austinchappell/Documents/dev/advent-of-code-2023/day_02/Puzzle_02/Puzzle_02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/austinchappell/.nuget/NuGet/NuGet.Config"
