@@ -1,0 +1,14 @@
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/bin/Debug/net8.0/Day02_Puzzle_01
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/bin/Debug/net8.0/Day02_Puzzle_01.deps.json
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/bin/Debug/net8.0/Day02_Puzzle_01.runtimeconfig.json
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/bin/Debug/net8.0/Day02_Puzzle_01.dll
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/bin/Debug/net8.0/Day02_Puzzle_01.pdb
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.AssemblyInfoInputs.cache
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.AssemblyInfo.cs
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.csproj.CoreCompileInputs.cache
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.dll
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/refint/Day02_Puzzle_01.dll
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.pdb
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/Day02_Puzzle_01.genruntimeconfig.cache
+/Users/austinchappell/Documents/dev/day_02/puzzle_01/Day02_Puzzle_01/Day02_Puzzle_01/obj/Debug/net8.0/ref/Day02_Puzzle_01.dll
